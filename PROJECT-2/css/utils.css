@@ -1,0 +1,26 @@
+.flex-all-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px 0px 0px 0px;
+}
+
+.btn {
+    height: 30px;
+    margin: 17px;
+    font-family: 'Montserrat';
+    padding: 5px 10px;
+    cursor: pointer;
+}
+.btn:hover {
+   font-weight: bolder;
+}
+.my-1{
+    margin: 5px auto
+}
+.my-2{
+    margin: 15px auto
+}
+.text-center{
+    text-align: center;
+}
